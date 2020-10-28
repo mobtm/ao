@@ -1,9 +1,3 @@
-fetch(){
-    .then(function(){
-
-    });
-}
-
 var textItems = document.getElementsByClassName("text-item");
 var photoItems = document.getElementsByClassName("photo-item");
 
